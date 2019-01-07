@@ -1,0 +1,7 @@
+multiplier=1
+sleepTimeoutBase=90
+logFile=/var/log/routerWatchdog.log
+
+routerIp=192.168.0.1
+username=admin
+password=XXXXXXXX
